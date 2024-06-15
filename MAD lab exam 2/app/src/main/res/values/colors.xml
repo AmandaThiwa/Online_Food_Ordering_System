@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#76DA80</color>
+    <color name="whitebackground">#F6F6F5</color>
+    <color name="Kottuname">#FF0B0A0A</color>
+    <color name="green">#377837</color>
+    <color name="Navigationbar">#83A5A397</color>
+    <color name="White">#F8F8F8</color>
+
+
+
+</resources>
